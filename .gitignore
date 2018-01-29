@@ -1,0 +1,11 @@
+CardGame/.vs/*
+Cellular/.vs/*
+*.tlog
+ClassExercises2B_1/.vs/ClassExercises2B_1/v15/Browse.VC.opendb
+ClassExercises2B_1/.vs/ClassExercises2B_1/v15/Browse.VC.db
+ClassExercises2B_1/.vs/*
+Cellular/Cellular/Debug/vc141.idb
+*.enc
+Cellular/enc_temp_folder/*
+.vs/*
+*.idb
