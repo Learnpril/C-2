@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include <iostream>
 #include <string>
+//after
 
 using namespace std;
 
@@ -26,7 +27,6 @@ public:
 	bool setDisplayWidth(int width);
 	void propagateNewGeneration();
 };
-
 
 /*
 a constructor. Through the mutator, below, we'll sanitize rule and then
